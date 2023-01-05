@@ -1,6 +1,6 @@
 package sorting;
 
-public class bubbleShort {
+public class bubbleSort {
 
     public static void printArr(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
